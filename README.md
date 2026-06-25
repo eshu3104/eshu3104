@@ -20,9 +20,8 @@
 
   ### Badges
   <a href="https://www.credly.com/badges/ffb66baf-ca64-4680-ae3a-bca9da2ff584/public_url">
-    <img src="assets/ai-skills-fest-2026.png" alt="Microsoft AI Skills Fest 2026" width="110"/>
+    <img src="https://images.credly.com/size/340x340/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" alt="Microsoft AI Skills Fest 2026" width="110"/>
   </a>
-
 
 
   ### GitHub stats
