@@ -23,7 +23,7 @@
     <img src="https://images.credly.com/size/340x340/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" alt="Microsoft AI Skills Fest 2026" width="110"/>
   </a>
 
-  <img src="https://raw.githubusercontent.com/eshu3104/eshu3104/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/eshu3104/eshu3104/output/snake-dark.svg" alt="Snake animation" />
 
 
   ### GitHub stats
