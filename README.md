@@ -17,6 +17,10 @@
   ### Tech I work with
   ![skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,django,react,nextjs,nodejs,typescript,postgres,mongodb,aws,git,linux)
 
+  ### Badges
+  [![Badge Name](PASTE_IMAGE_URL_HERE)](https://www.credly.com/badges/ffb66baf-ca64-4680-ae3a-bca9da2ff584/public_url)
+
+
   ### GitHub stats
   ![stats](https://github-readme-stats.vercel.app/api?username=eshu3104&show_icons=true&locale=en)
   ![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=eshu3104&layout=compact&locale=en)
