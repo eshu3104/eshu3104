@@ -17,8 +17,12 @@
   ### Tech I work with
   ![skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,django,react,nextjs,nodejs,typescript,postgres,mongodb,aws,git,linux)
 
+
   ### Badges
-  [![Microsoft AI Skills Fest](https://www.credly.com/badges/ffb66baf-ca64-4680-ae3a-bca9da2ff584/public_url)](https://www.credly.com/badges/ffb66baf-ca64-4680-ae3a-bca9da2ff584/public_url)
+  <a href="https://www.credly.com/badges/ffb66baf-ca64-4680-ae3a-bca9da2ff584/public_url">
+    <img src="assets/ai-skills-fest-2026.png" alt="Microsoft AI Skills Fest 2026" width="110"/>
+  </a>
+
 
 
   ### GitHub stats
