@@ -27,6 +27,5 @@
 
 
   ### GitHub stats
-  ![stats](https://github-readme-stats.vercel.app/api?username=eshu3104&show_icons=true&locale=en)
   ![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=eshu3104&layout=compact&locale=en)
 
