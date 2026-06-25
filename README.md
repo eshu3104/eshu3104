@@ -18,7 +18,7 @@
   ![skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,django,react,nextjs,nodejs,typescript,postgres,mongodb,aws,git,linux)
 
   ### Badges
-  [![Badge Name](PASTE_IMAGE_URL_HERE)](https://www.credly.com/badges/ffb66baf-ca64-4680-ae3a-bca9da2ff584/public_url)
+  [![Microsoft AI Skills Fest](https://www.credly.com/badges/ffb66baf-ca64-4680-ae3a-bca9da2ff584/public_url)](https://www.credly.com/badges/ffb66baf-ca64-4680-ae3a-bca9da2ff584/public_url)
 
 
   ### GitHub stats
